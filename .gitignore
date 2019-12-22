@@ -1,4 +1,5 @@
-/CheXpert-v1.0-small
+/CheXpert-v1.0-small/train
+/CheXpert-v1.0-small/valid
 /Documents
 .idea/
 .ipynb_checkpoints/
