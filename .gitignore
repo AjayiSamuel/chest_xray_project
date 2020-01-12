@@ -3,6 +3,6 @@
 /Documents
 .idea/
 .ipynb_checkpoints/
-/logs/*
+logs/*
 /models/*
 
