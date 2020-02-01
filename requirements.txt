@@ -52,6 +52,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.2
 protobuf==3.8.0
 pybin==0.3.4
+pydot==1.4.1
 Pygments==2.5.2
 pyparsing==2.4.5
 pyreadline==2.1
